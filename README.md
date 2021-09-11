@@ -22,3 +22,9 @@ For YellowPages.ApiPerson and YellowPages.ApiReport
 		"Password": "RabbitMQPassword",
 		"ParallelThreadsCount": 3
 	},
+	
+### After you changed the database information you should init your database using YellowPages.Database project
+
+	PM> enable-migrations
+	PM> add-migration initial
+	PM> update-database
