@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Can\\source\\repos\\YellowPages\\03 - Client\\YellowPages.Client.WebUI\\YellowPages.Client.WebUI.csproj": {}
+    "C:\\assesments\\YellowPages\\03 - Client\\YellowPages.Client.WebUI\\YellowPages.Client.WebUI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Can\\source\\repos\\YellowPages\\03 - Client\\YellowPages.Client.WebUI\\YellowPages.Client.WebUI.csproj": {
+    "C:\\assesments\\YellowPages\\03 - Client\\YellowPages.Client.WebUI\\YellowPages.Client.WebUI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Can\\source\\repos\\YellowPages\\03 - Client\\YellowPages.Client.WebUI\\YellowPages.Client.WebUI.csproj",
+        "projectUniqueName": "C:\\assesments\\YellowPages\\03 - Client\\YellowPages.Client.WebUI\\YellowPages.Client.WebUI.csproj",
         "projectName": "YellowPages.Client.WebUI",
-        "projectPath": "C:\\Users\\Can\\source\\repos\\YellowPages\\03 - Client\\YellowPages.Client.WebUI\\YellowPages.Client.WebUI.csproj",
+        "projectPath": "C:\\assesments\\YellowPages\\03 - Client\\YellowPages.Client.WebUI\\YellowPages.Client.WebUI.csproj",
         "packagesPath": "C:\\Users\\Can\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Can\\source\\repos\\YellowPages\\03 - Client\\YellowPages.Client.WebUI\\obj\\",
+        "outputPath": "C:\\assesments\\YellowPages\\03 - Client\\YellowPages.Client.WebUI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

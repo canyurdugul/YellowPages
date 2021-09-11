@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "MWyGcm8YWSytQfJi6xUV01H3gPZs/OI4yHwP1z62uG7qppYToiLgu76ViDX+GtPsP1oOH2jVkc8O1W/MvEOVQQ==",
+  "dgSpecHash": "vR0mJXRAULo2qBx1sdNVVBcnEaMGQc57ch8VtyvamDASVtq3C3Nq5ykEnWYN4diKu2Oyi/v8iOASrYvVjMsXww==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Can\\source\\repos\\YellowPages\\03 - Client\\YellowPages.Client.ReportPublisher\\YellowPages.Client.ReportPublisher.csproj",
+  "projectFilePath": "C:\\assesments\\YellowPages\\03 - Client\\YellowPages.Client.ReportPublisher\\YellowPages.Client.ReportPublisher.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Can\\.nuget\\packages\\fixer\\1.4.2\\fixer.1.4.2.nupkg.sha512",
     "C:\\Users\\Can\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",

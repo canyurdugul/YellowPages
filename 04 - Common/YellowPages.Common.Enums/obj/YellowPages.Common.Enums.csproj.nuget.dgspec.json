@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Can\\source\\repos\\YellowPages\\04 - Common\\YellowPages.Common.Enums\\YellowPages.Common.Enums.csproj": {}
+    "C:\\assesments\\YellowPages\\04 - Common\\YellowPages.Common.Enums\\YellowPages.Common.Enums.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Can\\source\\repos\\YellowPages\\04 - Common\\YellowPages.Common.Enums\\YellowPages.Common.Enums.csproj": {
+    "C:\\assesments\\YellowPages\\04 - Common\\YellowPages.Common.Enums\\YellowPages.Common.Enums.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Can\\source\\repos\\YellowPages\\04 - Common\\YellowPages.Common.Enums\\YellowPages.Common.Enums.csproj",
+        "projectUniqueName": "C:\\assesments\\YellowPages\\04 - Common\\YellowPages.Common.Enums\\YellowPages.Common.Enums.csproj",
         "projectName": "YellowPages.Common.Enums",
-        "projectPath": "C:\\Users\\Can\\source\\repos\\YellowPages\\04 - Common\\YellowPages.Common.Enums\\YellowPages.Common.Enums.csproj",
+        "projectPath": "C:\\assesments\\YellowPages\\04 - Common\\YellowPages.Common.Enums\\YellowPages.Common.Enums.csproj",
         "packagesPath": "C:\\Users\\Can\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Can\\source\\repos\\YellowPages\\04 - Common\\YellowPages.Common.Enums\\obj\\",
+        "outputPath": "C:\\assesments\\YellowPages\\04 - Common\\YellowPages.Common.Enums\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

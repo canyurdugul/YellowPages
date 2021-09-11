@@ -171,3 +171,28 @@ System.AggregateException: One or more errors occurred. (One or more errors occu
 2021-09-11 15:20:49.432 +03:00 [INF] Hosting environment: Production
 2021-09-11 15:20:49.432 +03:00 [INF] Content root path: C:\Users\Can\source\repos\YellowPages\03 - Client\YellowPages.Client.ReportConsumer
 2021-09-11 15:20:49.432 +03:00 [DBG] Hosting started
+2021-09-11 15:38:54.210 +03:00 [DBG] Hosting starting
+2021-09-11 15:38:54.519 +03:00 [INF] OnStopping has been called.
+2021-09-11 15:38:54.519 +03:00 [INF] Application is shutting down...
+2021-09-11 15:38:54.624 +03:00 [DBG] Loaded hosting startup assembly YellowPages.Client.ReportConsumer
+2021-09-11 15:38:55.036 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5005/ - -
+2021-09-11 15:38:55.040 +03:00 [DBG] Wildcard detected, all requests with hosts will be allowed.
+2021-09-11 15:38:55.266 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5005/ - - - 404 - - 229.5513ms
+2021-09-11 15:38:59.157 +03:00 [INF] OnStarted has been called.
+2021-09-11 15:38:59.158 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2021-09-11 15:38:59.158 +03:00 [INF] Hosting environment: Production
+2021-09-11 15:38:59.158 +03:00 [INF] Content root path: C:\assesments\YellowPages\03 - Client\YellowPages.Client.ReportConsumer
+2021-09-11 15:38:59.158 +03:00 [DBG] Hosting started
+2021-09-11 15:38:59.159 +03:00 [DBG] Hosting stopping
+2021-09-11 15:38:59.160 +03:00 [INF] OnStopped has been called.
+2021-09-11 15:38:59.160 +03:00 [DBG] Hosting stopped
+2021-09-11 15:41:33.196 +03:00 [DBG] Hosting starting
+2021-09-11 15:41:33.622 +03:00 [DBG] Loaded hosting startup assembly YellowPages.Client.ReportConsumer
+2021-09-11 15:41:34.252 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5005/ - -
+2021-09-11 15:41:34.256 +03:00 [DBG] Wildcard detected, all requests with hosts will be allowed.
+2021-09-11 15:41:34.535 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5005/ - - - 404 - - 359.1341ms
+2021-09-11 15:41:38.160 +03:00 [INF] OnStarted has been called.
+2021-09-11 15:41:38.160 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2021-09-11 15:41:38.161 +03:00 [INF] Hosting environment: Production
+2021-09-11 15:41:38.161 +03:00 [INF] Content root path: C:\assesments\YellowPages\03 - Client\YellowPages.Client.ReportConsumer
+2021-09-11 15:41:38.161 +03:00 [DBG] Hosting started

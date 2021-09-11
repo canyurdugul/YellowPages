@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "61a8VbNjDEUm7G/Kg/G+fpYKTrJhGJio4HW2DT19pOokVSjA3Z8CdEz2FQDGHKwVwbbN9UJ0Wg651D8grdFYbw==",
+  "dgSpecHash": "mY13PhBsugVIYjYokBitCxJastqxINFYW78vgmoEo5Gd74vg0simgPoN+04BISCs9hjRwQKW0DlygvSTM/iK/Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Can\\source\\repos\\YellowPages\\01 - Business\\YellowPages.Business\\YellowPages.Business.csproj",
+  "projectFilePath": "C:\\assesments\\YellowPages\\01 - Business\\YellowPages.Business\\YellowPages.Business.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Can\\.nuget\\packages\\microsoft.aspnetcore.http.abstractions\\2.2.0\\microsoft.aspnetcore.http.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\Can\\.nuget\\packages\\microsoft.aspnetcore.http.features\\2.2.0\\microsoft.aspnetcore.http.features.2.2.0.nupkg.sha512",

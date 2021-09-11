@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Can\\source\\repos\\YellowPages\\05 - Queue\\YellowPages.Queue.Common\\YellowPages.Queue.Common.csproj": {}
+    "C:\\assesments\\YellowPages\\05 - Queue\\YellowPages.Queue.Common\\YellowPages.Queue.Common.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Can\\source\\repos\\YellowPages\\05 - Queue\\YellowPages.Queue.Common\\YellowPages.Queue.Common.csproj": {
+    "C:\\assesments\\YellowPages\\05 - Queue\\YellowPages.Queue.Common\\YellowPages.Queue.Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Can\\source\\repos\\YellowPages\\05 - Queue\\YellowPages.Queue.Common\\YellowPages.Queue.Common.csproj",
+        "projectUniqueName": "C:\\assesments\\YellowPages\\05 - Queue\\YellowPages.Queue.Common\\YellowPages.Queue.Common.csproj",
         "projectName": "YellowPages.Queue.Common",
-        "projectPath": "C:\\Users\\Can\\source\\repos\\YellowPages\\05 - Queue\\YellowPages.Queue.Common\\YellowPages.Queue.Common.csproj",
+        "projectPath": "C:\\assesments\\YellowPages\\05 - Queue\\YellowPages.Queue.Common\\YellowPages.Queue.Common.csproj",
         "packagesPath": "C:\\Users\\Can\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Can\\source\\repos\\YellowPages\\05 - Queue\\YellowPages.Queue.Common\\obj\\",
+        "outputPath": "C:\\assesments\\YellowPages\\05 - Queue\\YellowPages.Queue.Common\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

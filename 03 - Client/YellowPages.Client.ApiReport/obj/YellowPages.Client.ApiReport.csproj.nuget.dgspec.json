@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Can\\source\\repos\\YellowPages\\03 - Client\\YellowPages.Client.ApiReport\\YellowPages.Client.ApiReport.csproj": {}
+    "C:\\assesments\\YellowPages\\03 - Client\\YellowPages.Client.ApiReport\\YellowPages.Client.ApiReport.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Can\\source\\repos\\YellowPages\\01 - Business\\YellowPages.Business.Contracts\\YellowPages.Business.Contracts.csproj": {
+    "C:\\assesments\\YellowPages\\01 - Business\\YellowPages.Business.Contracts\\YellowPages.Business.Contracts.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Can\\source\\repos\\YellowPages\\01 - Business\\YellowPages.Business.Contracts\\YellowPages.Business.Contracts.csproj",
+        "projectUniqueName": "C:\\assesments\\YellowPages\\01 - Business\\YellowPages.Business.Contracts\\YellowPages.Business.Contracts.csproj",
         "projectName": "YellowPages.Business.Contracts",
-        "projectPath": "C:\\Users\\Can\\source\\repos\\YellowPages\\01 - Business\\YellowPages.Business.Contracts\\YellowPages.Business.Contracts.csproj",
+        "projectPath": "C:\\assesments\\YellowPages\\01 - Business\\YellowPages.Business.Contracts\\YellowPages.Business.Contracts.csproj",
         "packagesPath": "C:\\Users\\Can\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Can\\source\\repos\\YellowPages\\01 - Business\\YellowPages.Business.Contracts\\obj\\",
+        "outputPath": "C:\\assesments\\YellowPages\\01 - Business\\YellowPages.Business.Contracts\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -33,11 +33,11 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\Can\\source\\repos\\YellowPages\\04 - Common\\YellowPages.Common.Enums\\YellowPages.Common.Enums.csproj": {
-                "projectPath": "C:\\Users\\Can\\source\\repos\\YellowPages\\04 - Common\\YellowPages.Common.Enums\\YellowPages.Common.Enums.csproj"
+              "C:\\assesments\\YellowPages\\04 - Common\\YellowPages.Common.Enums\\YellowPages.Common.Enums.csproj": {
+                "projectPath": "C:\\assesments\\YellowPages\\04 - Common\\YellowPages.Common.Enums\\YellowPages.Common.Enums.csproj"
               },
-              "C:\\Users\\Can\\source\\repos\\YellowPages\\04 - Common\\YellowPages.Common.Validation\\YellowPages.Common.Validation.csproj": {
-                "projectPath": "C:\\Users\\Can\\source\\repos\\YellowPages\\04 - Common\\YellowPages.Common.Validation\\YellowPages.Common.Validation.csproj"
+              "C:\\assesments\\YellowPages\\04 - Common\\YellowPages.Common.Validation\\YellowPages.Common.Validation.csproj": {
+                "projectPath": "C:\\assesments\\YellowPages\\04 - Common\\YellowPages.Common.Validation\\YellowPages.Common.Validation.csproj"
               }
             }
           }
@@ -76,14 +76,14 @@
         }
       }
     },
-    "C:\\Users\\Can\\source\\repos\\YellowPages\\01 - Business\\YellowPages.Business\\YellowPages.Business.csproj": {
+    "C:\\assesments\\YellowPages\\01 - Business\\YellowPages.Business\\YellowPages.Business.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Can\\source\\repos\\YellowPages\\01 - Business\\YellowPages.Business\\YellowPages.Business.csproj",
+        "projectUniqueName": "C:\\assesments\\YellowPages\\01 - Business\\YellowPages.Business\\YellowPages.Business.csproj",
         "projectName": "YellowPages.Business",
-        "projectPath": "C:\\Users\\Can\\source\\repos\\YellowPages\\01 - Business\\YellowPages.Business\\YellowPages.Business.csproj",
+        "projectPath": "C:\\assesments\\YellowPages\\01 - Business\\YellowPages.Business\\YellowPages.Business.csproj",
         "packagesPath": "C:\\Users\\Can\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Can\\source\\repos\\YellowPages\\01 - Business\\YellowPages.Business\\obj\\",
+        "outputPath": "C:\\assesments\\YellowPages\\01 - Business\\YellowPages.Business\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -105,8 +105,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\Can\\source\\repos\\YellowPages\\02 - Database\\YellowPages.Database\\YellowPages.Database.csproj": {
-                "projectPath": "C:\\Users\\Can\\source\\repos\\YellowPages\\02 - Database\\YellowPages.Database\\YellowPages.Database.csproj"
+              "C:\\assesments\\YellowPages\\02 - Database\\YellowPages.Database\\YellowPages.Database.csproj": {
+                "projectPath": "C:\\assesments\\YellowPages\\02 - Database\\YellowPages.Database\\YellowPages.Database.csproj"
               }
             }
           }
@@ -139,14 +139,14 @@
         }
       }
     },
-    "C:\\Users\\Can\\source\\repos\\YellowPages\\02 - Database\\YellowPages.Database\\YellowPages.Database.csproj": {
+    "C:\\assesments\\YellowPages\\02 - Database\\YellowPages.Database\\YellowPages.Database.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Can\\source\\repos\\YellowPages\\02 - Database\\YellowPages.Database\\YellowPages.Database.csproj",
+        "projectUniqueName": "C:\\assesments\\YellowPages\\02 - Database\\YellowPages.Database\\YellowPages.Database.csproj",
         "projectName": "YellowPages.Database",
-        "projectPath": "C:\\Users\\Can\\source\\repos\\YellowPages\\02 - Database\\YellowPages.Database\\YellowPages.Database.csproj",
+        "projectPath": "C:\\assesments\\YellowPages\\02 - Database\\YellowPages.Database\\YellowPages.Database.csproj",
         "packagesPath": "C:\\Users\\Can\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Can\\source\\repos\\YellowPages\\02 - Database\\YellowPages.Database\\obj\\",
+        "outputPath": "C:\\assesments\\YellowPages\\02 - Database\\YellowPages.Database\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -168,8 +168,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\Can\\source\\repos\\YellowPages\\02 - Database\\YellowPages.Entities\\YellowPages.Entities.csproj": {
-                "projectPath": "C:\\Users\\Can\\source\\repos\\YellowPages\\02 - Database\\YellowPages.Entities\\YellowPages.Entities.csproj"
+              "C:\\assesments\\YellowPages\\02 - Database\\YellowPages.Entities\\YellowPages.Entities.csproj": {
+                "projectPath": "C:\\assesments\\YellowPages\\02 - Database\\YellowPages.Entities\\YellowPages.Entities.csproj"
               }
             }
           }
@@ -242,14 +242,14 @@
         }
       }
     },
-    "C:\\Users\\Can\\source\\repos\\YellowPages\\02 - Database\\YellowPages.Entities\\YellowPages.Entities.csproj": {
+    "C:\\assesments\\YellowPages\\02 - Database\\YellowPages.Entities\\YellowPages.Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Can\\source\\repos\\YellowPages\\02 - Database\\YellowPages.Entities\\YellowPages.Entities.csproj",
+        "projectUniqueName": "C:\\assesments\\YellowPages\\02 - Database\\YellowPages.Entities\\YellowPages.Entities.csproj",
         "projectName": "YellowPages.Entities",
-        "projectPath": "C:\\Users\\Can\\source\\repos\\YellowPages\\02 - Database\\YellowPages.Entities\\YellowPages.Entities.csproj",
+        "projectPath": "C:\\assesments\\YellowPages\\02 - Database\\YellowPages.Entities\\YellowPages.Entities.csproj",
         "packagesPath": "C:\\Users\\Can\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Can\\source\\repos\\YellowPages\\02 - Database\\YellowPages.Entities\\obj\\",
+        "outputPath": "C:\\assesments\\YellowPages\\02 - Database\\YellowPages.Entities\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -271,8 +271,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\Can\\source\\repos\\YellowPages\\04 - Common\\YellowPages.Common.Enums\\YellowPages.Common.Enums.csproj": {
-                "projectPath": "C:\\Users\\Can\\source\\repos\\YellowPages\\04 - Common\\YellowPages.Common.Enums\\YellowPages.Common.Enums.csproj"
+              "C:\\assesments\\YellowPages\\04 - Common\\YellowPages.Common.Enums\\YellowPages.Common.Enums.csproj": {
+                "projectPath": "C:\\assesments\\YellowPages\\04 - Common\\YellowPages.Common.Enums\\YellowPages.Common.Enums.csproj"
               }
             }
           }
@@ -305,14 +305,14 @@
         }
       }
     },
-    "C:\\Users\\Can\\source\\repos\\YellowPages\\03 - Client\\YellowPages.Client.ApiReport\\YellowPages.Client.ApiReport.csproj": {
+    "C:\\assesments\\YellowPages\\03 - Client\\YellowPages.Client.ApiReport\\YellowPages.Client.ApiReport.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Can\\source\\repos\\YellowPages\\03 - Client\\YellowPages.Client.ApiReport\\YellowPages.Client.ApiReport.csproj",
+        "projectUniqueName": "C:\\assesments\\YellowPages\\03 - Client\\YellowPages.Client.ApiReport\\YellowPages.Client.ApiReport.csproj",
         "projectName": "YellowPages.Client.ApiReport",
-        "projectPath": "C:\\Users\\Can\\source\\repos\\YellowPages\\03 - Client\\YellowPages.Client.ApiReport\\YellowPages.Client.ApiReport.csproj",
+        "projectPath": "C:\\assesments\\YellowPages\\03 - Client\\YellowPages.Client.ApiReport\\YellowPages.Client.ApiReport.csproj",
         "packagesPath": "C:\\Users\\Can\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Can\\source\\repos\\YellowPages\\03 - Client\\YellowPages.Client.ApiReport\\obj\\",
+        "outputPath": "C:\\assesments\\YellowPages\\03 - Client\\YellowPages.Client.ApiReport\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -334,14 +334,14 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\Can\\source\\repos\\YellowPages\\01 - Business\\YellowPages.Business.Contracts\\YellowPages.Business.Contracts.csproj": {
-                "projectPath": "C:\\Users\\Can\\source\\repos\\YellowPages\\01 - Business\\YellowPages.Business.Contracts\\YellowPages.Business.Contracts.csproj"
+              "C:\\assesments\\YellowPages\\01 - Business\\YellowPages.Business.Contracts\\YellowPages.Business.Contracts.csproj": {
+                "projectPath": "C:\\assesments\\YellowPages\\01 - Business\\YellowPages.Business.Contracts\\YellowPages.Business.Contracts.csproj"
               },
-              "C:\\Users\\Can\\source\\repos\\YellowPages\\01 - Business\\YellowPages.Business\\YellowPages.Business.csproj": {
-                "projectPath": "C:\\Users\\Can\\source\\repos\\YellowPages\\01 - Business\\YellowPages.Business\\YellowPages.Business.csproj"
+              "C:\\assesments\\YellowPages\\01 - Business\\YellowPages.Business\\YellowPages.Business.csproj": {
+                "projectPath": "C:\\assesments\\YellowPages\\01 - Business\\YellowPages.Business\\YellowPages.Business.csproj"
               },
-              "C:\\Users\\Can\\source\\repos\\YellowPages\\02 - Database\\YellowPages.Database\\YellowPages.Database.csproj": {
-                "projectPath": "C:\\Users\\Can\\source\\repos\\YellowPages\\02 - Database\\YellowPages.Database\\YellowPages.Database.csproj"
+              "C:\\assesments\\YellowPages\\02 - Database\\YellowPages.Database\\YellowPages.Database.csproj": {
+                "projectPath": "C:\\assesments\\YellowPages\\02 - Database\\YellowPages.Database\\YellowPages.Database.csproj"
               }
             }
           }
@@ -393,14 +393,14 @@
         }
       }
     },
-    "C:\\Users\\Can\\source\\repos\\YellowPages\\04 - Common\\YellowPages.Common.Enums\\YellowPages.Common.Enums.csproj": {
+    "C:\\assesments\\YellowPages\\04 - Common\\YellowPages.Common.Enums\\YellowPages.Common.Enums.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Can\\source\\repos\\YellowPages\\04 - Common\\YellowPages.Common.Enums\\YellowPages.Common.Enums.csproj",
+        "projectUniqueName": "C:\\assesments\\YellowPages\\04 - Common\\YellowPages.Common.Enums\\YellowPages.Common.Enums.csproj",
         "projectName": "YellowPages.Common.Enums",
-        "projectPath": "C:\\Users\\Can\\source\\repos\\YellowPages\\04 - Common\\YellowPages.Common.Enums\\YellowPages.Common.Enums.csproj",
+        "projectPath": "C:\\assesments\\YellowPages\\04 - Common\\YellowPages.Common.Enums\\YellowPages.Common.Enums.csproj",
         "packagesPath": "C:\\Users\\Can\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Can\\source\\repos\\YellowPages\\04 - Common\\YellowPages.Common.Enums\\obj\\",
+        "outputPath": "C:\\assesments\\YellowPages\\04 - Common\\YellowPages.Common.Enums\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -452,14 +452,14 @@
         }
       }
     },
-    "C:\\Users\\Can\\source\\repos\\YellowPages\\04 - Common\\YellowPages.Common.Validation\\YellowPages.Common.Validation.csproj": {
+    "C:\\assesments\\YellowPages\\04 - Common\\YellowPages.Common.Validation\\YellowPages.Common.Validation.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Can\\source\\repos\\YellowPages\\04 - Common\\YellowPages.Common.Validation\\YellowPages.Common.Validation.csproj",
+        "projectUniqueName": "C:\\assesments\\YellowPages\\04 - Common\\YellowPages.Common.Validation\\YellowPages.Common.Validation.csproj",
         "projectName": "YellowPages.Common.Validation",
-        "projectPath": "C:\\Users\\Can\\source\\repos\\YellowPages\\04 - Common\\YellowPages.Common.Validation\\YellowPages.Common.Validation.csproj",
+        "projectPath": "C:\\assesments\\YellowPages\\04 - Common\\YellowPages.Common.Validation\\YellowPages.Common.Validation.csproj",
         "packagesPath": "C:\\Users\\Can\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Can\\source\\repos\\YellowPages\\04 - Common\\YellowPages.Common.Validation\\obj\\",
+        "outputPath": "C:\\assesments\\YellowPages\\04 - Common\\YellowPages.Common.Validation\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

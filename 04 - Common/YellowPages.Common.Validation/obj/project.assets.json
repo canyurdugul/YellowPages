@@ -45,11 +45,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Can\\source\\repos\\YellowPages\\04 - Common\\YellowPages.Common.Validation\\YellowPages.Common.Validation.csproj",
+      "projectUniqueName": "C:\\assesments\\YellowPages\\04 - Common\\YellowPages.Common.Validation\\YellowPages.Common.Validation.csproj",
       "projectName": "YellowPages.Common.Validation",
-      "projectPath": "C:\\Users\\Can\\source\\repos\\YellowPages\\04 - Common\\YellowPages.Common.Validation\\YellowPages.Common.Validation.csproj",
+      "projectPath": "C:\\assesments\\YellowPages\\04 - Common\\YellowPages.Common.Validation\\YellowPages.Common.Validation.csproj",
       "packagesPath": "C:\\Users\\Can\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Can\\source\\repos\\YellowPages\\04 - Common\\YellowPages.Common.Validation\\obj\\",
+      "outputPath": "C:\\assesments\\YellowPages\\04 - Common\\YellowPages.Common.Validation\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

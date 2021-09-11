@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4MYz0sp9oZedW6jzJtQdYILs6DWK1hSLQZsPt4s4qG7I26sQ0IzGuwriftR88taQW8uufrF2FoLe8bI6JTT2kg==",
+  "dgSpecHash": "pAxVxQHzEY8Q8YcTns0HtpuIIUKyQec+44/Op9jNOuX84v0DePIFMjzu+foc0G25iLgfKMTJFidSmZMFi5HLYg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Can\\source\\repos\\YellowPages\\03 - Client\\YellowPages.Client.ReportConsumer\\YellowPages.Client.ReportConsumer.csproj",
+  "projectFilePath": "C:\\assesments\\YellowPages\\03 - Client\\YellowPages.Client.ReportConsumer\\YellowPages.Client.ReportConsumer.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Can\\.nuget\\packages\\closedxml\\0.95.4\\closedxml.0.95.4.nupkg.sha512",
     "C:\\Users\\Can\\.nuget\\packages\\documentformat.openxml\\2.7.2\\documentformat.openxml.2.7.2.nupkg.sha512",

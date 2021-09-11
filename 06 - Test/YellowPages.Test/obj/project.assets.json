@@ -4959,11 +4959,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Can\\source\\repos\\YellowPages\\06 - Test\\YellowPages.Test\\YellowPages.Test.csproj",
+      "projectUniqueName": "C:\\assesments\\YellowPages\\06 - Test\\YellowPages.Test\\YellowPages.Test.csproj",
       "projectName": "YellowPages.Test",
-      "projectPath": "C:\\Users\\Can\\source\\repos\\YellowPages\\06 - Test\\YellowPages.Test\\YellowPages.Test.csproj",
+      "projectPath": "C:\\assesments\\YellowPages\\06 - Test\\YellowPages.Test\\YellowPages.Test.csproj",
       "packagesPath": "C:\\Users\\Can\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Can\\source\\repos\\YellowPages\\06 - Test\\YellowPages.Test\\obj\\",
+      "outputPath": "C:\\assesments\\YellowPages\\06 - Test\\YellowPages.Test\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

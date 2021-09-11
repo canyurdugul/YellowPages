@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Can\\source\\repos\\YellowPages\\04 - Common\\YellowPages.Common.Constants\\YellowPages.Common.Constants.csproj": {}
+    "C:\\assesments\\YellowPages\\04 - Common\\YellowPages.Common.Constants\\YellowPages.Common.Constants.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Can\\source\\repos\\YellowPages\\04 - Common\\YellowPages.Common.Constants\\YellowPages.Common.Constants.csproj": {
+    "C:\\assesments\\YellowPages\\04 - Common\\YellowPages.Common.Constants\\YellowPages.Common.Constants.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Can\\source\\repos\\YellowPages\\04 - Common\\YellowPages.Common.Constants\\YellowPages.Common.Constants.csproj",
+        "projectUniqueName": "C:\\assesments\\YellowPages\\04 - Common\\YellowPages.Common.Constants\\YellowPages.Common.Constants.csproj",
         "projectName": "YellowPages.Common.Constants",
-        "projectPath": "C:\\Users\\Can\\source\\repos\\YellowPages\\04 - Common\\YellowPages.Common.Constants\\YellowPages.Common.Constants.csproj",
+        "projectPath": "C:\\assesments\\YellowPages\\04 - Common\\YellowPages.Common.Constants\\YellowPages.Common.Constants.csproj",
         "packagesPath": "C:\\Users\\Can\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Can\\source\\repos\\YellowPages\\04 - Common\\YellowPages.Common.Constants\\obj\\",
+        "outputPath": "C:\\assesments\\YellowPages\\04 - Common\\YellowPages.Common.Constants\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "tNo4nENZCNJBE/zGhIgmf9hFZ/iPpxytVE6aNsqUKw4kK/hvhk2GMOjFhY9PMO5Yl6XH5AvBH3GpBKE2cHxS9Q==",
+  "dgSpecHash": "7FYac8TVNwsspaUSB+4DNBIkh0QSI6sn3lhpVX3H2kE9j5hj422voh6zjUR4Vd7wlb9lp75n9FGZFTdsITyp7A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Can\\source\\repos\\YellowPages\\06 - Test\\YellowPages.Test\\YellowPages.Test.csproj",
+  "projectFilePath": "C:\\assesments\\YellowPages\\06 - Test\\YellowPages.Test\\YellowPages.Test.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Can\\.nuget\\packages\\coverlet.collector\\3.0.2\\coverlet.collector.3.0.2.nupkg.sha512",
     "C:\\Users\\Can\\.nuget\\packages\\microsoft.codecoverage\\16.9.4\\microsoft.codecoverage.16.9.4.nupkg.sha512",

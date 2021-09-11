@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "bZLVjbSEJGqTxb17vsBBcEb4wYRIwEe7dVjsOJx1+J2HLcpsv8m6M5edwGDkverQ2ZLMiIlYUJ6cNrhpDAxWtg==",
+  "dgSpecHash": "Y7V0oDxZ6sq+Df128nLD6ExK8foSvQzKsurWbMzEqgPFVD0IwCr51ZoHVx1LxfXJwSLc2PVPhDGS2VLBLrI4TA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Can\\source\\repos\\YellowPages\\04 - Common\\YellowPages.Common.Validation\\YellowPages.Common.Validation.csproj",
+  "projectFilePath": "C:\\assesments\\YellowPages\\04 - Common\\YellowPages.Common.Validation\\YellowPages.Common.Validation.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Can\\.nuget\\packages\\fluentvalidation\\10.0.4\\fluentvalidation.10.0.4.nupkg.sha512"
   ],

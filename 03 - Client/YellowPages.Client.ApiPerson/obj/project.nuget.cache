@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "oSWiko6mftNySJlBreYldMH0e87/oUXgGHznXVPkL4eF5GzrMBnX4G5n5AnbkWmVCRT7gE5vOIQ3cvp3G/p9GA==",
+  "dgSpecHash": "tUl8aetAgjpsgJi1+757ccXeU3MOz13wnyZ2MZTu0nKZRTj5npm8n0lMno4NvWUilpQAqH41ZaqSmQlcr/xRGg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Can\\source\\repos\\YellowPages\\03 - Client\\YellowPages.Client.ApiPerson\\YellowPages.Client.ApiPerson.csproj",
+  "projectFilePath": "C:\\assesments\\YellowPages\\03 - Client\\YellowPages.Client.ApiPerson\\YellowPages.Client.ApiPerson.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Can\\.nuget\\packages\\autowrapper.core\\4.5.0\\autowrapper.core.4.5.0.nupkg.sha512",
     "C:\\Users\\Can\\.nuget\\packages\\autowrapper.server\\2.0.0\\autowrapper.server.2.0.0.nupkg.sha512",

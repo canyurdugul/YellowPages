@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "AE0qh4CK+IUoy5g32omZ/oNr0yHjGJ1H3+LlCFSFKaxiffbLZm5IWQtTsQKK1F/8A11HTkID8c6wHNlOF1MIVQ==",
+  "dgSpecHash": "E3qH3ZbW/fO45uoO6qcQlvZSwYgrrLr3VGxiB4JFsaBzQAq/egSOPEAIvLkQRhHko5eiE7xnKpyAvkpOq+K8cw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Can\\source\\repos\\YellowPages\\03 - Client\\YellowPages.Client.WebUI\\YellowPages.Client.WebUI.csproj",
+  "projectFilePath": "C:\\assesments\\YellowPages\\03 - Client\\YellowPages.Client.WebUI\\YellowPages.Client.WebUI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Can\\.nuget\\packages\\microsoft.aspnetcore.mvc.razor.extensions\\5.0.7\\microsoft.aspnetcore.mvc.razor.extensions.5.0.7.nupkg.sha512",
     "C:\\Users\\Can\\.nuget\\packages\\microsoft.aspnetcore.mvc.razor.runtimecompilation\\5.0.7\\microsoft.aspnetcore.mvc.razor.runtimecompilation.5.0.7.nupkg.sha512",
