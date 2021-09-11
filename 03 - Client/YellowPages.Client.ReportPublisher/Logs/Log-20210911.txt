@@ -260,3 +260,4 @@
 2021-09-11 15:41:35.270 +03:00 [DBG] Wildcard detected, all requests with hosts will be allowed.
 2021-09-11 15:41:35.355 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5007/ - - - 404 - - 90.8728ms
 2021-09-11 15:42:00.448 +03:00 [INF] ReportPublisherWorker worked.
+2021-09-11 15:43:00.364 +03:00 [INF] ReportPublisherWorker worked.
