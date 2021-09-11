@@ -1,0 +1,173 @@
+2021-09-11 13:28:50.985 +03:00 [DBG] Hosting starting
+2021-09-11 13:28:51.350 +03:00 [DBG] Loaded hosting startup assembly YellowPages.Client.ReportConsumer
+2021-09-11 13:28:51.883 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5005/ - -
+2021-09-11 13:28:51.888 +03:00 [DBG] Wildcard detected, all requests with hosts will be allowed.
+2021-09-11 13:28:52.069 +03:00 [DBG] Connection ID "17654110549492891686" disconnecting.
+2021-09-11 13:28:52.108 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5005/ - - - 404 - - 230.3051ms
+2021-09-11 13:29:13.639 +03:00 [ERR] MessageBusCommonService connection start error
+2021-09-11 13:29:20.048 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2021-09-11 13:29:20.048 +03:00 [INF] Hosting environment: Production
+2021-09-11 13:29:20.048 +03:00 [INF] Content root path: C:\Users\Can\source\repos\YellowPages\03 - Client\YellowPages.Client.ReportConsumer
+2021-09-11 13:29:20.049 +03:00 [FTL] An error occurred starting the application
+System.AggregateException: One or more errors occurred. (One or more errors occurred. (Value cannot be null. (Parameter '_connection')))
+ ---> System.AggregateException: One or more errors occurred. (Value cannot be null. (Parameter '_connection'))
+ ---> System.ArgumentNullException: Value cannot be null. (Parameter '_connection')
+   at YellowPages.Client.ReportConsumer.MessageBus.MessageBusConsumerService.Start() in C:\Users\Can\source\repos\YellowPages\03 - Client\YellowPages.Client.ReportConsumer\MessageBus\MessageBusConsumerService.cs:line 56
+   --- End of inner exception stack trace ---
+   at System.Threading.Tasks.Task.Wait(Int32 millisecondsTimeout, CancellationToken cancellationToken)
+   at System.Threading.Tasks.Task.Wait()
+   at YellowPages.Queue.Common.Concrete.ConsumerStarter.Start() in C:\Users\Can\source\repos\YellowPages\05 - Queue\YellowPages.Queue.Common\Concrete\ConsumerStarter.cs:line 22
+   at YellowPages.Client.ReportConsumer.Services.LifetimeEventsHostedService.OnStarted() in C:\Users\Can\source\repos\YellowPages\03 - Client\YellowPages.Client.ReportConsumer\Services\LifetimeEventsHostedService.cs:line 39
+   at System.Threading.CancellationToken.<>c.<.cctor>b__26_0(Object obj)
+   at System.Threading.CancellationTokenSource.CallbackNode.<>c.<ExecuteCallback>b__9_0(Object s)
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+--- End of stack trace from previous location ---
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+   at System.Threading.CancellationTokenSource.CallbackNode.ExecuteCallback()
+   at System.Threading.CancellationTokenSource.ExecuteCallbackHandlers(Boolean throwOnFirstException)
+   --- End of inner exception stack trace ---
+   at System.Threading.CancellationTokenSource.ExecuteCallbackHandlers(Boolean throwOnFirstException)
+   at System.Threading.CancellationTokenSource.NotifyCancellation(Boolean throwOnFirstException)
+   at System.Threading.CancellationTokenSource.Cancel(Boolean throwOnFirstException)
+   at Microsoft.Extensions.Hosting.Internal.ApplicationLifetime.NotifyStarted()
+2021-09-11 13:29:20.428 +03:00 [DBG] Hosting started
+2021-09-11 14:01:42.879 +03:00 [DBG] Hosting starting
+2021-09-11 14:01:43.298 +03:00 [DBG] Loaded hosting startup assembly YellowPages.Client.ReportConsumer
+2021-09-11 14:01:43.862 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5005/ - -
+2021-09-11 14:01:43.937 +03:00 [DBG] Wildcard detected, all requests with hosts will be allowed.
+2021-09-11 14:01:44.115 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5005/ - - - 404 - - 254.4489ms
+2021-09-11 14:01:47.487 +03:00 [INF] OnStarted has been called.
+2021-09-11 14:01:47.487 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2021-09-11 14:01:47.487 +03:00 [INF] Hosting environment: Production
+2021-09-11 14:01:47.487 +03:00 [INF] Content root path: C:\Users\Can\source\repos\YellowPages\03 - Client\YellowPages.Client.ReportConsumer
+2021-09-11 14:01:47.487 +03:00 [DBG] Hosting started
+2021-09-11 14:05:29.483 +03:00 [DBG] Hosting starting
+2021-09-11 14:05:29.904 +03:00 [DBG] Loaded hosting startup assembly YellowPages.Client.ReportConsumer
+2021-09-11 14:05:30.368 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5005/ - -
+2021-09-11 14:05:30.373 +03:00 [DBG] Wildcard detected, all requests with hosts will be allowed.
+2021-09-11 14:05:30.670 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5005/ - - - 404 - - 304.6428ms
+2021-09-11 14:05:35.424 +03:00 [INF] OnStarted has been called.
+2021-09-11 14:05:35.425 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2021-09-11 14:05:35.425 +03:00 [INF] Hosting environment: Production
+2021-09-11 14:05:35.425 +03:00 [INF] Content root path: C:\Users\Can\source\repos\YellowPages\03 - Client\YellowPages.Client.ReportConsumer
+2021-09-11 14:05:35.425 +03:00 [DBG] Hosting started
+2021-09-11 14:08:54.239 +03:00 [DBG] Hosting starting
+2021-09-11 14:08:54.692 +03:00 [DBG] Loaded hosting startup assembly YellowPages.Client.ReportConsumer
+2021-09-11 14:08:55.314 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5005/ - -
+2021-09-11 14:08:55.319 +03:00 [DBG] Wildcard detected, all requests with hosts will be allowed.
+2021-09-11 14:08:55.600 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5005/ - - - 404 - - 360.7501ms
+2021-09-11 14:09:01.479 +03:00 [INF] OnStarted has been called.
+2021-09-11 14:09:01.479 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2021-09-11 14:09:01.479 +03:00 [INF] Hosting environment: Production
+2021-09-11 14:09:01.479 +03:00 [INF] Content root path: C:\Users\Can\source\repos\YellowPages\03 - Client\YellowPages.Client.ReportConsumer
+2021-09-11 14:09:01.480 +03:00 [DBG] Hosting started
+2021-09-11 14:17:30.047 +03:00 [DBG] Hosting starting
+2021-09-11 14:17:30.560 +03:00 [DBG] Loaded hosting startup assembly YellowPages.Client.ReportConsumer
+2021-09-11 14:17:30.972 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5005/ - -
+2021-09-11 14:17:30.978 +03:00 [DBG] Wildcard detected, all requests with hosts will be allowed.
+2021-09-11 14:17:31.444 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5005/ - - - 404 - - 475.2726ms
+2021-09-11 14:17:34.902 +03:00 [INF] OnStarted has been called.
+2021-09-11 14:17:34.902 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2021-09-11 14:17:34.902 +03:00 [INF] Hosting environment: Production
+2021-09-11 14:17:34.902 +03:00 [INF] Content root path: C:\Users\Can\source\repos\YellowPages\03 - Client\YellowPages.Client.ReportConsumer
+2021-09-11 14:17:34.903 +03:00 [DBG] Hosting started
+2021-09-11 14:22:37.377 +03:00 [DBG] Hosting starting
+2021-09-11 14:22:37.893 +03:00 [DBG] Loaded hosting startup assembly YellowPages.Client.ReportConsumer
+2021-09-11 14:22:38.221 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5005/ - -
+2021-09-11 14:22:38.225 +03:00 [DBG] Wildcard detected, all requests with hosts will be allowed.
+2021-09-11 14:22:38.609 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5005/ - - - 404 - - 389.5558ms
+2021-09-11 14:22:42.108 +03:00 [INF] OnStarted has been called.
+2021-09-11 14:22:42.109 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2021-09-11 14:22:42.109 +03:00 [INF] Hosting environment: Production
+2021-09-11 14:22:42.109 +03:00 [INF] Content root path: C:\Users\Can\source\repos\YellowPages\03 - Client\YellowPages.Client.ReportConsumer
+2021-09-11 14:22:42.109 +03:00 [DBG] Hosting started
+2021-09-11 14:23:15.115 +03:00 [DBG] Hosting starting
+2021-09-11 14:23:15.552 +03:00 [DBG] Loaded hosting startup assembly YellowPages.Client.ReportConsumer
+2021-09-11 14:23:16.021 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5005/ - -
+2021-09-11 14:23:16.097 +03:00 [DBG] Wildcard detected, all requests with hosts will be allowed.
+2021-09-11 14:23:16.382 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5005/ - - - 404 - - 432.5502ms
+2021-09-11 14:23:19.729 +03:00 [INF] OnStarted has been called.
+2021-09-11 14:23:19.729 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2021-09-11 14:23:19.730 +03:00 [INF] Hosting environment: Production
+2021-09-11 14:23:19.730 +03:00 [INF] Content root path: C:\Users\Can\source\repos\YellowPages\03 - Client\YellowPages.Client.ReportConsumer
+2021-09-11 14:23:19.730 +03:00 [DBG] Hosting started
+2021-09-11 14:25:40.395 +03:00 [DBG] Hosting starting
+2021-09-11 14:25:40.821 +03:00 [DBG] Loaded hosting startup assembly YellowPages.Client.ReportConsumer
+2021-09-11 14:25:41.385 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5005/ - -
+2021-09-11 14:25:41.389 +03:00 [DBG] Wildcard detected, all requests with hosts will be allowed.
+2021-09-11 14:25:41.612 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5005/ - - - 404 - - 305.0079ms
+2021-09-11 14:25:44.932 +03:00 [INF] OnStarted has been called.
+2021-09-11 14:25:44.932 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2021-09-11 14:25:44.932 +03:00 [INF] Hosting environment: Production
+2021-09-11 14:25:44.932 +03:00 [INF] Content root path: C:\Users\Can\source\repos\YellowPages\03 - Client\YellowPages.Client.ReportConsumer
+2021-09-11 14:25:44.932 +03:00 [DBG] Hosting started
+2021-09-11 14:43:58.492 +03:00 [DBG] Hosting starting
+2021-09-11 14:43:58.914 +03:00 [DBG] Loaded hosting startup assembly YellowPages.Client.ReportConsumer
+2021-09-11 14:43:59.465 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5005/ - -
+2021-09-11 14:43:59.513 +03:00 [DBG] Wildcard detected, all requests with hosts will be allowed.
+2021-09-11 14:43:59.693 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5005/ - - - 404 - - 230.5712ms
+2021-09-11 14:44:03.405 +03:00 [INF] OnStarted has been called.
+2021-09-11 14:44:03.406 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2021-09-11 14:44:03.406 +03:00 [INF] Hosting environment: Production
+2021-09-11 14:44:03.406 +03:00 [INF] Content root path: C:\Users\Can\source\repos\YellowPages\03 - Client\YellowPages.Client.ReportConsumer
+2021-09-11 14:44:03.406 +03:00 [DBG] Hosting started
+2021-09-11 14:46:58.655 +03:00 [DBG] Hosting starting
+2021-09-11 14:46:59.019 +03:00 [DBG] Loaded hosting startup assembly YellowPages.Client.ReportConsumer
+2021-09-11 14:46:59.568 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5005/ - -
+2021-09-11 14:46:59.642 +03:00 [DBG] Wildcard detected, all requests with hosts will be allowed.
+2021-09-11 14:46:59.820 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5005/ - - - 404 - - 254.6100ms
+2021-09-11 14:47:03.185 +03:00 [INF] OnStarted has been called.
+2021-09-11 14:47:03.186 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2021-09-11 14:47:03.186 +03:00 [INF] Hosting environment: Production
+2021-09-11 14:47:03.186 +03:00 [INF] Content root path: C:\Users\Can\source\repos\YellowPages\03 - Client\YellowPages.Client.ReportConsumer
+2021-09-11 14:47:03.186 +03:00 [DBG] Hosting started
+2021-09-11 14:53:23.300 +03:00 [DBG] Hosting starting
+2021-09-11 14:53:23.722 +03:00 [DBG] Loaded hosting startup assembly YellowPages.Client.ReportConsumer
+2021-09-11 14:53:24.370 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5005/ - -
+2021-09-11 14:53:24.441 +03:00 [DBG] Wildcard detected, all requests with hosts will be allowed.
+2021-09-11 14:53:24.648 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5005/ - - - 404 - - 279.3669ms
+2021-09-11 14:53:27.988 +03:00 [INF] OnStarted has been called.
+2021-09-11 14:53:27.988 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2021-09-11 14:53:27.988 +03:00 [INF] Hosting environment: Production
+2021-09-11 14:53:27.988 +03:00 [INF] Content root path: C:\Users\Can\source\repos\YellowPages\03 - Client\YellowPages.Client.ReportConsumer
+2021-09-11 14:53:27.988 +03:00 [DBG] Hosting started
+2021-09-11 15:13:11.127 +03:00 [DBG] Hosting starting
+2021-09-11 15:13:11.553 +03:00 [DBG] Loaded hosting startup assembly YellowPages.Client.ReportConsumer
+2021-09-11 15:13:11.891 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5005/ - -
+2021-09-11 15:13:11.894 +03:00 [DBG] Wildcard detected, all requests with hosts will be allowed.
+2021-09-11 15:13:12.330 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5005/ - - - 404 - - 439.8113ms
+2021-09-11 15:13:16.527 +03:00 [INF] OnStarted has been called.
+2021-09-11 15:13:16.528 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2021-09-11 15:13:16.528 +03:00 [INF] Hosting environment: Production
+2021-09-11 15:13:16.528 +03:00 [INF] Content root path: C:\Users\Can\source\repos\YellowPages\03 - Client\YellowPages.Client.ReportConsumer
+2021-09-11 15:13:16.528 +03:00 [DBG] Hosting started
+2021-09-11 15:15:18.740 +03:00 [DBG] Hosting starting
+2021-09-11 15:15:19.278 +03:00 [DBG] Loaded hosting startup assembly YellowPages.Client.ReportConsumer
+2021-09-11 15:15:19.601 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5005/ - -
+2021-09-11 15:15:19.605 +03:00 [DBG] Wildcard detected, all requests with hosts will be allowed.
+2021-09-11 15:15:19.876 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5005/ - - - 404 - - 273.5807ms
+2021-09-11 15:15:23.605 +03:00 [INF] OnStarted has been called.
+2021-09-11 15:15:23.605 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2021-09-11 15:15:23.606 +03:00 [INF] Hosting environment: Production
+2021-09-11 15:15:23.606 +03:00 [INF] Content root path: C:\Users\Can\source\repos\YellowPages\03 - Client\YellowPages.Client.ReportConsumer
+2021-09-11 15:15:23.606 +03:00 [DBG] Hosting started
+2021-09-11 15:17:47.701 +03:00 [DBG] Hosting starting
+2021-09-11 15:17:48.118 +03:00 [DBG] Loaded hosting startup assembly YellowPages.Client.ReportConsumer
+2021-09-11 15:17:48.551 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5005/ - -
+2021-09-11 15:17:48.556 +03:00 [DBG] Wildcard detected, all requests with hosts will be allowed.
+2021-09-11 15:17:48.703 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5005/ - - - 404 - - 159.3975ms
+2021-09-11 15:17:51.808 +03:00 [INF] OnStarted has been called.
+2021-09-11 15:17:51.808 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2021-09-11 15:17:51.808 +03:00 [INF] Hosting environment: Production
+2021-09-11 15:17:51.808 +03:00 [INF] Content root path: C:\Users\Can\source\repos\YellowPages\03 - Client\YellowPages.Client.ReportConsumer
+2021-09-11 15:17:51.808 +03:00 [DBG] Hosting started
+2021-09-11 15:20:44.340 +03:00 [DBG] Hosting starting
+2021-09-11 15:20:44.712 +03:00 [DBG] Loaded hosting startup assembly YellowPages.Client.ReportConsumer
+2021-09-11 15:20:45.284 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5005/ - -
+2021-09-11 15:20:45.289 +03:00 [DBG] Wildcard detected, all requests with hosts will be allowed.
+2021-09-11 15:20:45.528 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5005/ - - - 404 - - 254.7147ms
+2021-09-11 15:20:49.432 +03:00 [INF] OnStarted has been called.
+2021-09-11 15:20:49.432 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2021-09-11 15:20:49.432 +03:00 [INF] Hosting environment: Production
+2021-09-11 15:20:49.432 +03:00 [INF] Content root path: C:\Users\Can\source\repos\YellowPages\03 - Client\YellowPages.Client.ReportConsumer
+2021-09-11 15:20:49.432 +03:00 [DBG] Hosting started

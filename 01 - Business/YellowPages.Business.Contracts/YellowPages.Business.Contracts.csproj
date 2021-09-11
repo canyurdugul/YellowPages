@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="FluentValidation" Version="10.0.4" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\04 - Common\YellowPages.Common.Enums\YellowPages.Common.Enums.csproj" />
+    <ProjectReference Include="..\..\04 - Common\YellowPages.Common.Validation\YellowPages.Common.Validation.csproj" />
+  </ItemGroup>
+
+</Project>

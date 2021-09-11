@@ -1,0 +1,12 @@
+C:\Users\Can\source\repos\YellowPages\04 - Common\YellowPages.Common.Constants\bin\Debug\net5.0\YellowPages.Common.Constants.deps.json
+C:\Users\Can\source\repos\YellowPages\04 - Common\YellowPages.Common.Constants\bin\Debug\net5.0\YellowPages.Common.Constants.dll
+C:\Users\Can\source\repos\YellowPages\04 - Common\YellowPages.Common.Constants\bin\Debug\net5.0\ref\YellowPages.Common.Constants.dll
+C:\Users\Can\source\repos\YellowPages\04 - Common\YellowPages.Common.Constants\bin\Debug\net5.0\YellowPages.Common.Constants.pdb
+C:\Users\Can\source\repos\YellowPages\04 - Common\YellowPages.Common.Constants\obj\Debug\net5.0\YellowPages.Common.Constants.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Can\source\repos\YellowPages\04 - Common\YellowPages.Common.Constants\obj\Debug\net5.0\YellowPages.Common.Constants.AssemblyInfoInputs.cache
+C:\Users\Can\source\repos\YellowPages\04 - Common\YellowPages.Common.Constants\obj\Debug\net5.0\YellowPages.Common.Constants.AssemblyInfo.cs
+C:\Users\Can\source\repos\YellowPages\04 - Common\YellowPages.Common.Constants\obj\Debug\net5.0\YellowPages.Common.Constants.csproj.CoreCompileInputs.cache
+C:\Users\Can\source\repos\YellowPages\04 - Common\YellowPages.Common.Constants\obj\Debug\net5.0\YellowPages.Common.Constants.dll
+C:\Users\Can\source\repos\YellowPages\04 - Common\YellowPages.Common.Constants\obj\Debug\net5.0\ref\YellowPages.Common.Constants.dll
+C:\Users\Can\source\repos\YellowPages\04 - Common\YellowPages.Common.Constants\obj\Debug\net5.0\YellowPages.Common.Constants.pdb
+C:\Users\Can\source\repos\YellowPages\04 - Common\YellowPages.Common.Constants\obj\Debug\net5.0\YellowPages.Common.Constants.csproj.AssemblyReference.cache

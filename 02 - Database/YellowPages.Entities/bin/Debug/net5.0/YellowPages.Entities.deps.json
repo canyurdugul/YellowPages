@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "YellowPages.Entities/1.0.0": {
+        "dependencies": {
+          "YellowPages.Common.Enums": "1.0.0"
+        },
+        "runtime": {
+          "YellowPages.Entities.dll": {}
+        }
+      },
+      "YellowPages.Common.Enums/1.0.0": {
+        "runtime": {
+          "YellowPages.Common.Enums.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "YellowPages.Entities/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "YellowPages.Common.Enums/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "x/VbJZhgtot+6HWc42vk0gUzWBGvEPnytFcjF2XI+4LZKelBfwA4Zj1DQu0Rh1bMX4cxhpPjcU0NLDO3ajtf/A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Can\\source\\repos\\YellowPages\\01 - Business\\YellowPages.Business.Contracts\\YellowPages.Business.Contracts.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Can\\.nuget\\packages\\fluentvalidation\\10.0.4\\fluentvalidation.10.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}

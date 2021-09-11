@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\02 - Database\YellowPages.Database\YellowPages.Database.csproj" />
+    <ProjectReference Include="..\YellowPages.Queue.Common\YellowPages.Queue.Common.csproj" />
+    <ProjectReference Include="..\YellowPages.Queue.ReportHelper\YellowPages.Queue.ReportHelper.csproj" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,12 @@
+C:\Users\Can\source\repos\YellowPages\05 - Queue\YellowPages.Queue.Common\bin\Debug\net5.0\YellowPages.Queue.Common.deps.json
+C:\Users\Can\source\repos\YellowPages\05 - Queue\YellowPages.Queue.Common\bin\Debug\net5.0\YellowPages.Queue.Common.dll
+C:\Users\Can\source\repos\YellowPages\05 - Queue\YellowPages.Queue.Common\bin\Debug\net5.0\ref\YellowPages.Queue.Common.dll
+C:\Users\Can\source\repos\YellowPages\05 - Queue\YellowPages.Queue.Common\bin\Debug\net5.0\YellowPages.Queue.Common.pdb
+C:\Users\Can\source\repos\YellowPages\05 - Queue\YellowPages.Queue.Common\obj\Debug\net5.0\YellowPages.Queue.Common.csproj.AssemblyReference.cache
+C:\Users\Can\source\repos\YellowPages\05 - Queue\YellowPages.Queue.Common\obj\Debug\net5.0\YellowPages.Queue.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Can\source\repos\YellowPages\05 - Queue\YellowPages.Queue.Common\obj\Debug\net5.0\YellowPages.Queue.Common.AssemblyInfoInputs.cache
+C:\Users\Can\source\repos\YellowPages\05 - Queue\YellowPages.Queue.Common\obj\Debug\net5.0\YellowPages.Queue.Common.AssemblyInfo.cs
+C:\Users\Can\source\repos\YellowPages\05 - Queue\YellowPages.Queue.Common\obj\Debug\net5.0\YellowPages.Queue.Common.csproj.CoreCompileInputs.cache
+C:\Users\Can\source\repos\YellowPages\05 - Queue\YellowPages.Queue.Common\obj\Debug\net5.0\YellowPages.Queue.Common.dll
+C:\Users\Can\source\repos\YellowPages\05 - Queue\YellowPages.Queue.Common\obj\Debug\net5.0\ref\YellowPages.Queue.Common.dll
+C:\Users\Can\source\repos\YellowPages\05 - Queue\YellowPages.Queue.Common\obj\Debug\net5.0\YellowPages.Queue.Common.pdb

@@ -1,0 +1,147 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+@{
+    #region Tabs
+}
+<div class="container">
+    <ul class="nav nav-tabs">
+        <li><a data-toggle="tab" href="#personsTab">Persons</a></li>
+        <li><a data-toggle="tab" href="#reportsTab">Reports</a></li>
+    </ul>
+    <div class="tab-content">
+        @{
+            #region Person Tab
+        }
+        <div id="personsTab" class="tab-pane fade in active">
+            <br />
+            <div class="row">
+                <div class="col-md-12">
+                    <div class="col-md-offset-11">
+                        <button type="button" class="btn btn-sm btn-primary" onclick="openPersonModal()">Add Person</button>
+                    </div>
+                </div>
+            </div>
+            <br />
+            <div class="row" id="persons">
+                <div class="col-md-12">
+                    <div class="text-center">
+                        <table class="table table-striped" id="personTable">
+                            <thead>
+                                <tr>
+                                    <th class="text-center">Full Name</th>
+                                    <th class="text-center">Firm Name</th>
+                                    <th class="text-center">#</th>
+                                </tr>
+                            </thead>
+                            <tbody></tbody>
+                        </table>
+                    </div>
+                </div>
+            </div>
+        </div>
+        @{
+            #endregion
+            #region Report Tab
+        }
+        <div id="reportsTab" class="tab-pane fade in">
+            <br />
+            <div class="row">
+                <div class="col-md-12">
+                    <div class="col-md-offset-11">
+                        <button type="button" class="btn btn-sm btn-success" onclick="makeReportRequest()">Report Request</button>
+                    </div>
+                </div>
+            </div>
+            <br />
+            <div class="row" id="reports">
+                <div class="col-md-12">
+                    <div class="text-center">
+                        <table class="table table-striped" id="reportTable">
+                            <thead>
+                                <tr>
+                                    <th class="text-center">Created Date</th>
+                                    <th class="text-center">Status</th>
+                                    <th class="text-center">#</th>
+                                </tr>
+                            </thead>
+                            <tbody></tbody>
+                        </table>
+                    </div>
+                </div>
+            </div>
+        </div>
+        @{
+            #endregion
+        }
+    </div>
+</div>
+@{
+    #endregion
+}
+
+@{
+    #region Person Modal
+}
+<div class="modal" id="personModal" role="dialog">
+    <div class="modal-dialog">
+        <!-- Modal content-->
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal">&times;</button>
+                <h4 class="modal-title">Person Information</h4>
+            </div>
+            <div class="modal-body">
+                <input type="hidden" id="Id" />
+                <table class="table table-striped">
+                    <tr>
+                        <td><label for="Name">Name</label></td>
+                        <td><input type="text" class="form-control" id="Name" /></td>
+                    </tr>
+                    <tr>
+                        <td><label for="Surname">Surname</label></td>
+                        <td><input type="text" class="form-control" id="Surname" /></td>
+                    </tr>
+                    <tr>
+                        <td><label for="FirmName">Firm Name</label></td>
+                        <td><input type="text" class="form-control" id="FirmName" /></td>
+                    </tr>
+                </table>
+                <hr />
+                <table class="table table-striped" id="contactInformation">
+                    <thead>
+                        <tr>
+                            <th>Contact Type</th>
+                            <th>Contact Info</th>
+                            <th><button type="button" class="btn btn-primary btn-sm" title="Add Row" onclick="addBlankContactInformationRow()"> <i class="fa fa-sm fa-fw fa-plus"/> </button></th>
+                        </tr>
+                    </thead>
+                    <tbody></tbody>
+                </table>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-danger" data-dismiss="modal">Close</button>
+                <button type="button" class="btn btn-success" onclick="saveOrUpdatePerson()">Save</button>
+            </div>
+        </div>
+    </div>
+</div>
+@{
+    #endregion
+}
+
+@section scripts{
+
+    <script type="text/javascript">
+
+        //#region document ready
+        $(document).ready(function () {
+            getPersonList();
+            getReportList();
+        });
+        //#endregion
+
+    </script>
+
+}

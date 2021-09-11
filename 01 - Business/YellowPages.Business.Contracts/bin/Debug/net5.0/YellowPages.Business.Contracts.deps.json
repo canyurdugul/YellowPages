@@ -1,0 +1,66 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "YellowPages.Business.Contracts/1.0.0": {
+        "dependencies": {
+          "FluentValidation": "10.0.4",
+          "YellowPages.Common.Enums": "1.0.0",
+          "YellowPages.Common.Validation": "1.0.0"
+        },
+        "runtime": {
+          "YellowPages.Business.Contracts.dll": {}
+        }
+      },
+      "FluentValidation/10.0.4": {
+        "runtime": {
+          "lib/net5.0/FluentValidation.dll": {
+            "assemblyVersion": "9.0.0.0",
+            "fileVersion": "10.0.4.0"
+          }
+        }
+      },
+      "YellowPages.Common.Enums/1.0.0": {
+        "runtime": {
+          "YellowPages.Common.Enums.dll": {}
+        }
+      },
+      "YellowPages.Common.Validation/1.0.0": {
+        "dependencies": {
+          "FluentValidation": "10.0.4"
+        },
+        "runtime": {
+          "YellowPages.Common.Validation.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "YellowPages.Business.Contracts/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "FluentValidation/10.0.4": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-LqEYHuF5gXBJzG9/aUQS50TJP5cZgh/twvPLV7iTtFFGF6isGBkNXOhr9VwmSjlFRIVOqcMtkGuHwuPbU+XpoQ==",
+      "path": "fluentvalidation/10.0.4",
+      "hashPath": "fluentvalidation.10.0.4.nupkg.sha512"
+    },
+    "YellowPages.Common.Enums/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "YellowPages.Common.Validation/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

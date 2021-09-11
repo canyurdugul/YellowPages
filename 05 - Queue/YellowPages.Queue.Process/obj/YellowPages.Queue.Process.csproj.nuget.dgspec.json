@@ -1,0 +1,591 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Can\\source\\repos\\YellowPages\\05 - Queue\\YellowPages.Queue.Process\\YellowPages.Queue.Process.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Can\\source\\repos\\YellowPages\\01 - Business\\YellowPages.Business.Contracts\\YellowPages.Business.Contracts.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Can\\source\\repos\\YellowPages\\01 - Business\\YellowPages.Business.Contracts\\YellowPages.Business.Contracts.csproj",
+        "projectName": "YellowPages.Business.Contracts",
+        "projectPath": "C:\\Users\\Can\\source\\repos\\YellowPages\\01 - Business\\YellowPages.Business.Contracts\\YellowPages.Business.Contracts.csproj",
+        "packagesPath": "C:\\Users\\Can\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Can\\source\\repos\\YellowPages\\01 - Business\\YellowPages.Business.Contracts\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Can\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.telerik.com/nuget": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\Can\\source\\repos\\YellowPages\\04 - Common\\YellowPages.Common.Enums\\YellowPages.Common.Enums.csproj": {
+                "projectPath": "C:\\Users\\Can\\source\\repos\\YellowPages\\04 - Common\\YellowPages.Common.Enums\\YellowPages.Common.Enums.csproj"
+              },
+              "C:\\Users\\Can\\source\\repos\\YellowPages\\04 - Common\\YellowPages.Common.Validation\\YellowPages.Common.Validation.csproj": {
+                "projectPath": "C:\\Users\\Can\\source\\repos\\YellowPages\\04 - Common\\YellowPages.Common.Validation\\YellowPages.Common.Validation.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[10.0.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Can\\source\\repos\\YellowPages\\02 - Database\\YellowPages.Database\\YellowPages.Database.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Can\\source\\repos\\YellowPages\\02 - Database\\YellowPages.Database\\YellowPages.Database.csproj",
+        "projectName": "YellowPages.Database",
+        "projectPath": "C:\\Users\\Can\\source\\repos\\YellowPages\\02 - Database\\YellowPages.Database\\YellowPages.Database.csproj",
+        "packagesPath": "C:\\Users\\Can\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Can\\source\\repos\\YellowPages\\02 - Database\\YellowPages.Database\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Can\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.telerik.com/nuget": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\Can\\source\\repos\\YellowPages\\02 - Database\\YellowPages.Entities\\YellowPages.Entities.csproj": {
+                "projectPath": "C:\\Users\\Can\\source\\repos\\YellowPages\\02 - Database\\YellowPages.Entities\\YellowPages.Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Http.Abstractions": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.9, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.9, )"
+            },
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.Extensions.Configuration.FileExtensions": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[5.0.7, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Can\\source\\repos\\YellowPages\\02 - Database\\YellowPages.Entities\\YellowPages.Entities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Can\\source\\repos\\YellowPages\\02 - Database\\YellowPages.Entities\\YellowPages.Entities.csproj",
+        "projectName": "YellowPages.Entities",
+        "projectPath": "C:\\Users\\Can\\source\\repos\\YellowPages\\02 - Database\\YellowPages.Entities\\YellowPages.Entities.csproj",
+        "packagesPath": "C:\\Users\\Can\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Can\\source\\repos\\YellowPages\\02 - Database\\YellowPages.Entities\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Can\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.telerik.com/nuget": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\Can\\source\\repos\\YellowPages\\04 - Common\\YellowPages.Common.Enums\\YellowPages.Common.Enums.csproj": {
+                "projectPath": "C:\\Users\\Can\\source\\repos\\YellowPages\\04 - Common\\YellowPages.Common.Enums\\YellowPages.Common.Enums.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Can\\source\\repos\\YellowPages\\04 - Common\\YellowPages.Common.Enums\\YellowPages.Common.Enums.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Can\\source\\repos\\YellowPages\\04 - Common\\YellowPages.Common.Enums\\YellowPages.Common.Enums.csproj",
+        "projectName": "YellowPages.Common.Enums",
+        "projectPath": "C:\\Users\\Can\\source\\repos\\YellowPages\\04 - Common\\YellowPages.Common.Enums\\YellowPages.Common.Enums.csproj",
+        "packagesPath": "C:\\Users\\Can\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Can\\source\\repos\\YellowPages\\04 - Common\\YellowPages.Common.Enums\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Can\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.telerik.com/nuget": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Can\\source\\repos\\YellowPages\\04 - Common\\YellowPages.Common.Validation\\YellowPages.Common.Validation.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Can\\source\\repos\\YellowPages\\04 - Common\\YellowPages.Common.Validation\\YellowPages.Common.Validation.csproj",
+        "projectName": "YellowPages.Common.Validation",
+        "projectPath": "C:\\Users\\Can\\source\\repos\\YellowPages\\04 - Common\\YellowPages.Common.Validation\\YellowPages.Common.Validation.csproj",
+        "packagesPath": "C:\\Users\\Can\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Can\\source\\repos\\YellowPages\\04 - Common\\YellowPages.Common.Validation\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Can\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.telerik.com/nuget": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[10.0.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Can\\source\\repos\\YellowPages\\05 - Queue\\YellowPages.Queue.Common\\YellowPages.Queue.Common.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Can\\source\\repos\\YellowPages\\05 - Queue\\YellowPages.Queue.Common\\YellowPages.Queue.Common.csproj",
+        "projectName": "YellowPages.Queue.Common",
+        "projectPath": "C:\\Users\\Can\\source\\repos\\YellowPages\\05 - Queue\\YellowPages.Queue.Common\\YellowPages.Queue.Common.csproj",
+        "packagesPath": "C:\\Users\\Can\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Can\\source\\repos\\YellowPages\\05 - Queue\\YellowPages.Queue.Common\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Can\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.telerik.com/nuget": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Binder": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.Extensions.Logging.Abstractions": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "RabbitMQ.Client": {
+              "target": "Package",
+              "version": "[6.2.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Can\\source\\repos\\YellowPages\\05 - Queue\\YellowPages.Queue.Process\\YellowPages.Queue.Process.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Can\\source\\repos\\YellowPages\\05 - Queue\\YellowPages.Queue.Process\\YellowPages.Queue.Process.csproj",
+        "projectName": "YellowPages.Queue.Process",
+        "projectPath": "C:\\Users\\Can\\source\\repos\\YellowPages\\05 - Queue\\YellowPages.Queue.Process\\YellowPages.Queue.Process.csproj",
+        "packagesPath": "C:\\Users\\Can\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Can\\source\\repos\\YellowPages\\05 - Queue\\YellowPages.Queue.Process\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Can\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.telerik.com/nuget": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\Can\\source\\repos\\YellowPages\\02 - Database\\YellowPages.Database\\YellowPages.Database.csproj": {
+                "projectPath": "C:\\Users\\Can\\source\\repos\\YellowPages\\02 - Database\\YellowPages.Database\\YellowPages.Database.csproj"
+              },
+              "C:\\Users\\Can\\source\\repos\\YellowPages\\05 - Queue\\YellowPages.Queue.Common\\YellowPages.Queue.Common.csproj": {
+                "projectPath": "C:\\Users\\Can\\source\\repos\\YellowPages\\05 - Queue\\YellowPages.Queue.Common\\YellowPages.Queue.Common.csproj"
+              },
+              "C:\\Users\\Can\\source\\repos\\YellowPages\\05 - Queue\\YellowPages.Queue.ReportHelper\\YellowPages.Queue.ReportHelper.csproj": {
+                "projectPath": "C:\\Users\\Can\\source\\repos\\YellowPages\\05 - Queue\\YellowPages.Queue.ReportHelper\\YellowPages.Queue.ReportHelper.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Can\\source\\repos\\YellowPages\\05 - Queue\\YellowPages.Queue.ReportHelper\\YellowPages.Queue.ReportHelper.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Can\\source\\repos\\YellowPages\\05 - Queue\\YellowPages.Queue.ReportHelper\\YellowPages.Queue.ReportHelper.csproj",
+        "projectName": "YellowPages.Queue.ReportHelper",
+        "projectPath": "C:\\Users\\Can\\source\\repos\\YellowPages\\05 - Queue\\YellowPages.Queue.ReportHelper\\YellowPages.Queue.ReportHelper.csproj",
+        "packagesPath": "C:\\Users\\Can\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Can\\source\\repos\\YellowPages\\05 - Queue\\YellowPages.Queue.ReportHelper\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Can\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.telerik.com/nuget": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\Can\\source\\repos\\YellowPages\\01 - Business\\YellowPages.Business.Contracts\\YellowPages.Business.Contracts.csproj": {
+                "projectPath": "C:\\Users\\Can\\source\\repos\\YellowPages\\01 - Business\\YellowPages.Business.Contracts\\YellowPages.Business.Contracts.csproj"
+              },
+              "C:\\Users\\Can\\source\\repos\\YellowPages\\02 - Database\\YellowPages.Entities\\YellowPages.Entities.csproj": {
+                "projectPath": "C:\\Users\\Can\\source\\repos\\YellowPages\\02 - Database\\YellowPages.Entities\\YellowPages.Entities.csproj"
+              },
+              "C:\\Users\\Can\\source\\repos\\YellowPages\\05 - Queue\\YellowPages.Queue.Common\\YellowPages.Queue.Common.csproj": {
+                "projectPath": "C:\\Users\\Can\\source\\repos\\YellowPages\\05 - Queue\\YellowPages.Queue.Common\\YellowPages.Queue.Common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "ClosedXML": {
+              "target": "Package",
+              "version": "[0.95.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

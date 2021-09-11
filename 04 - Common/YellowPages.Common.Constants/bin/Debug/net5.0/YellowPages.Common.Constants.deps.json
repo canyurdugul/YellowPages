@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "YellowPages.Common.Constants/1.0.0": {
+        "runtime": {
+          "YellowPages.Common.Constants.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "YellowPages.Common.Constants/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

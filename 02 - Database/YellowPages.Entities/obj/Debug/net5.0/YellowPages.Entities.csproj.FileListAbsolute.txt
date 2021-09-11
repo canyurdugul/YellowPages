@@ -1,0 +1,15 @@
+C:\Users\Can\source\repos\YellowPages\02 - Database\YellowPages.Entities\bin\Debug\net5.0\YellowPages.Entities.deps.json
+C:\Users\Can\source\repos\YellowPages\02 - Database\YellowPages.Entities\bin\Debug\net5.0\YellowPages.Entities.dll
+C:\Users\Can\source\repos\YellowPages\02 - Database\YellowPages.Entities\bin\Debug\net5.0\ref\YellowPages.Entities.dll
+C:\Users\Can\source\repos\YellowPages\02 - Database\YellowPages.Entities\bin\Debug\net5.0\YellowPages.Entities.pdb
+C:\Users\Can\source\repos\YellowPages\02 - Database\YellowPages.Entities\bin\Debug\net5.0\YellowPages.Common.Enums.dll
+C:\Users\Can\source\repos\YellowPages\02 - Database\YellowPages.Entities\bin\Debug\net5.0\YellowPages.Common.Enums.pdb
+C:\Users\Can\source\repos\YellowPages\02 - Database\YellowPages.Entities\obj\Debug\net5.0\YellowPages.Entities.csproj.AssemblyReference.cache
+C:\Users\Can\source\repos\YellowPages\02 - Database\YellowPages.Entities\obj\Debug\net5.0\YellowPages.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Can\source\repos\YellowPages\02 - Database\YellowPages.Entities\obj\Debug\net5.0\YellowPages.Entities.AssemblyInfoInputs.cache
+C:\Users\Can\source\repos\YellowPages\02 - Database\YellowPages.Entities\obj\Debug\net5.0\YellowPages.Entities.AssemblyInfo.cs
+C:\Users\Can\source\repos\YellowPages\02 - Database\YellowPages.Entities\obj\Debug\net5.0\YellowPages.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Can\source\repos\YellowPages\02 - Database\YellowPages.Entities\obj\Debug\net5.0\YellowPages.Entities.csproj.CopyComplete
+C:\Users\Can\source\repos\YellowPages\02 - Database\YellowPages.Entities\obj\Debug\net5.0\YellowPages.Entities.dll
+C:\Users\Can\source\repos\YellowPages\02 - Database\YellowPages.Entities\obj\Debug\net5.0\ref\YellowPages.Entities.dll
+C:\Users\Can\source\repos\YellowPages\02 - Database\YellowPages.Entities\obj\Debug\net5.0\YellowPages.Entities.pdb

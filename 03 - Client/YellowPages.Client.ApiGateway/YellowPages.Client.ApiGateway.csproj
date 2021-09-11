@@ -1,0 +1,21 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="5.0.9">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="Ocelot" Version="17.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\01 - Business\YellowPages.Business\YellowPages.Business.csproj" />
+    <ProjectReference Include="..\..\02 - Database\YellowPages.Database\YellowPages.Database.csproj" />
+    <ProjectReference Include="..\..\04 - Common\YellowPages.Common.Constants\YellowPages.Common.Constants.csproj" />
+  </ItemGroup>
+
+</Project>

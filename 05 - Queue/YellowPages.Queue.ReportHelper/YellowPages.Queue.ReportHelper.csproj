@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="ClosedXML" Version="0.95.4" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\01 - Business\YellowPages.Business.Contracts\YellowPages.Business.Contracts.csproj" />
+    <ProjectReference Include="..\..\02 - Database\YellowPages.Entities\YellowPages.Entities.csproj" />
+    <ProjectReference Include="..\YellowPages.Queue.Common\YellowPages.Queue.Common.csproj" />
+  </ItemGroup>
+
+</Project>

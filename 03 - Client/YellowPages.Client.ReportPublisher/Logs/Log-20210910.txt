@@ -1,0 +1,164 @@
+2021-09-10 00:00:29.838 +03:00 [DBG] Hosting starting
+2021-09-10 00:00:30.356 +03:00 [INF] ReportPublisherWorker worked.
+2021-09-10 00:00:30.481 +03:00 [DBG] Loaded hosting startup assembly YellowPages.Client.ReportPublisher
+2021-09-10 00:00:30.482 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2021-09-10 00:00:30.484 +03:00 [INF] Hosting environment: Production
+2021-09-10 00:00:30.484 +03:00 [INF] Content root path: C:\Users\Can\source\repos\YellowPages\03 - Client\YellowPages.Client.ReportPublisher
+2021-09-10 00:00:30.484 +03:00 [DBG] Hosting started
+2021-09-10 00:00:30.976 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5007/ - -
+2021-09-10 00:00:30.980 +03:00 [DBG] Wildcard detected, all requests with hosts will be allowed.
+2021-09-10 00:00:31.087 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5007/ - - - 404 - - 114.1386ms
+2021-09-10 00:01:00.689 +03:00 [INF] ReportPublisherWorker worked.
+2021-09-10 00:02:00.593 +03:00 [INF] ReportPublisherWorker worked.
+2021-09-10 00:03:00.247 +03:00 [INF] ReportPublisherWorker worked.
+2021-09-10 00:04:00.088 +03:00 [INF] ReportPublisherWorker worked.
+2021-09-10 00:05:00.827 +03:00 [INF] ReportPublisherWorker worked.
+2021-09-10 00:06:00.611 +03:00 [INF] ReportPublisherWorker worked.
+2021-09-10 00:07:00.519 +03:00 [INF] ReportPublisherWorker worked.
+2021-09-10 00:08:00.180 +03:00 [INF] ReportPublisherWorker worked.
+2021-09-10 00:09:00.924 +03:00 [INF] ReportPublisherWorker worked.
+2021-09-10 00:10:00.400 +03:00 [INF] ReportPublisherWorker worked.
+2021-09-10 00:11:00.157 +03:00 [INF] ReportPublisherWorker worked.
+2021-09-10 00:12:00.006 +03:00 [INF] ReportPublisherWorker worked.
+2021-09-10 00:13:00.944 +03:00 [INF] ReportPublisherWorker worked.
+2021-09-10 00:14:00.732 +03:00 [INF] ReportPublisherWorker worked.
+2021-09-10 00:15:00.392 +03:00 [INF] ReportPublisherWorker worked.
+2021-09-10 00:16:00.176 +03:00 [INF] ReportPublisherWorker worked.
+2021-09-10 00:17:01.808 +03:00 [INF] ReportPublisherWorker worked.
+2021-09-10 00:18:00.333 +03:00 [INF] ReportPublisherWorker worked.
+2021-09-10 00:19:00.051 +03:00 [INF] ReportPublisherWorker worked.
+2021-09-10 00:20:00.831 +03:00 [INF] ReportPublisherWorker worked.
+2021-09-10 00:21:00.677 +03:00 [INF] ReportPublisherWorker worked.
+2021-09-10 00:22:00.411 +03:00 [INF] ReportPublisherWorker worked.
+2021-09-10 00:23:00.117 +03:00 [INF] ReportPublisherWorker worked.
+2021-09-10 00:24:00.897 +03:00 [INF] ReportPublisherWorker worked.
+2021-09-10 00:25:00.641 +03:00 [INF] ReportPublisherWorker worked.
+2021-09-10 00:26:00.317 +03:00 [INF] ReportPublisherWorker worked.
+2021-09-10 00:27:00.125 +03:00 [INF] ReportPublisherWorker worked.
+2021-09-10 00:28:00.898 +03:00 [INF] ReportPublisherWorker worked.
+2021-09-10 00:29:00.939 +03:00 [INF] ReportPublisherWorker worked.
+2021-09-10 00:30:00.798 +03:00 [INF] ReportPublisherWorker worked.
+2021-09-10 00:31:00.605 +03:00 [INF] ReportPublisherWorker worked.
+2021-09-10 00:34:09.901 +03:00 [DBG] Hosting starting
+2021-09-10 00:34:10.249 +03:00 [INF] ReportPublisherWorker worked.
+2021-09-10 00:34:10.604 +03:00 [DBG] Loaded hosting startup assembly YellowPages.Client.ReportPublisher
+2021-09-10 00:34:10.681 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2021-09-10 00:34:10.681 +03:00 [INF] Hosting environment: Production
+2021-09-10 00:34:10.681 +03:00 [INF] Content root path: C:\Users\Can\source\repos\YellowPages\03 - Client\YellowPages.Client.ReportPublisher
+2021-09-10 00:34:10.681 +03:00 [DBG] Hosting started
+2021-09-10 00:34:10.906 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5007/ - -
+2021-09-10 00:34:10.910 +03:00 [DBG] Wildcard detected, all requests with hosts will be allowed.
+2021-09-10 00:34:11.149 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5007/ - - - 404 - - 243.1472ms
+2021-09-10 00:35:00.016 +03:00 [INF] ReportPublisherWorker worked.
+2021-09-10 00:36:00.962 +03:00 [INF] ReportPublisherWorker worked.
+2021-09-10 00:37:11.310 +03:00 [INF] ReportPublisherWorker worked.
+2021-09-10 00:38:04.228 +03:00 [INF] ReportPublisherWorker worked.
+2021-09-10 00:42:38.056 +03:00 [DBG] Hosting starting
+2021-09-10 00:42:38.388 +03:00 [INF] ReportPublisherWorker worked.
+2021-09-10 00:42:38.834 +03:00 [DBG] Loaded hosting startup assembly YellowPages.Client.ReportPublisher
+2021-09-10 00:42:38.881 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2021-09-10 00:42:38.881 +03:00 [INF] Hosting environment: Production
+2021-09-10 00:42:38.881 +03:00 [INF] Content root path: C:\Users\Can\source\repos\YellowPages\03 - Client\YellowPages.Client.ReportPublisher
+2021-09-10 00:42:38.881 +03:00 [DBG] Hosting started
+2021-09-10 00:42:39.026 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5007/ - -
+2021-09-10 00:42:39.098 +03:00 [DBG] Wildcard detected, all requests with hosts will be allowed.
+2021-09-10 00:42:39.449 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5007/ - - - 404 - - 424.9146ms
+2021-09-10 00:43:04.556 +03:00 [INF] ReportPublisherWorker worked.
+2021-09-10 00:44:00.794 +03:00 [INF] ReportPublisherWorker worked.
+2021-09-10 00:45:00.664 +03:00 [INF] ReportPublisherWorker worked.
+2021-09-10 00:46:00.344 +03:00 [INF] ReportPublisherWorker worked.
+2021-09-10 00:47:00.144 +03:00 [INF] ReportPublisherWorker worked.
+2021-09-10 00:48:00.833 +03:00 [INF] ReportPublisherWorker worked.
+2021-09-10 00:49:00.810 +03:00 [INF] ReportPublisherWorker worked.
+2021-09-10 00:50:00.662 +03:00 [INF] ReportPublisherWorker worked.
+2021-09-10 00:51:00.417 +03:00 [INF] ReportPublisherWorker worked.
+2021-09-10 00:52:00.137 +03:00 [INF] ReportPublisherWorker worked.
+2021-09-10 00:53:00.938 +03:00 [INF] ReportPublisherWorker worked.
+2021-09-10 00:54:00.788 +03:00 [INF] ReportPublisherWorker worked.
+2021-09-10 00:55:00.750 +03:00 [INF] ReportPublisherWorker worked.
+2021-09-10 00:56:00.472 +03:00 [INF] ReportPublisherWorker worked.
+2021-09-10 00:57:00.235 +03:00 [INF] ReportPublisherWorker worked.
+2021-09-10 00:58:00.031 +03:00 [INF] ReportPublisherWorker worked.
+2021-09-10 00:59:00.806 +03:00 [INF] ReportPublisherWorker worked.
+2021-09-10 01:00:00.500 +03:00 [INF] ReportPublisherWorker worked.
+2021-09-10 01:01:00.472 +03:00 [INF] ReportPublisherWorker worked.
+2021-09-10 01:02:00.203 +03:00 [INF] ReportPublisherWorker worked.
+2021-09-10 01:03:00.972 +03:00 [INF] ReportPublisherWorker worked.
+2021-09-10 01:04:00.670 +03:00 [INF] ReportPublisherWorker worked.
+2021-09-10 01:05:00.373 +03:00 [INF] ReportPublisherWorker worked.
+2021-09-10 01:06:00.183 +03:00 [INF] ReportPublisherWorker worked.
+2021-09-10 01:07:00.125 +03:00 [INF] ReportPublisherWorker worked.
+2021-09-10 01:08:00.932 +03:00 [INF] ReportPublisherWorker worked.
+2021-09-10 01:09:00.735 +03:00 [INF] ReportPublisherWorker worked.
+2021-09-10 01:10:00.384 +03:00 [INF] ReportPublisherWorker worked.
+2021-09-10 01:11:00.052 +03:00 [INF] ReportPublisherWorker worked.
+2021-09-10 01:12:00.763 +03:00 [INF] ReportPublisherWorker worked.
+2021-09-10 01:13:00.663 +03:00 [INF] ReportPublisherWorker worked.
+2021-09-10 01:14:00.357 +03:00 [INF] ReportPublisherWorker worked.
+2021-09-10 01:15:00.061 +03:00 [INF] ReportPublisherWorker worked.
+2021-09-10 01:16:00.830 +03:00 [INF] ReportPublisherWorker worked.
+2021-09-10 01:17:00.517 +03:00 [INF] ReportPublisherWorker worked.
+2021-09-10 01:18:00.204 +03:00 [INF] ReportPublisherWorker worked.
+2021-09-10 01:19:00.048 +03:00 [INF] ReportPublisherWorker worked.
+2021-09-10 01:20:00.780 +03:00 [INF] ReportPublisherWorker worked.
+2021-09-10 01:21:00.511 +03:00 [INF] ReportPublisherWorker worked.
+2021-09-10 01:22:00.225 +03:00 [INF] ReportPublisherWorker worked.
+2021-09-10 01:23:42.118 +03:00 [DBG] Hosting starting
+2021-09-10 01:23:42.659 +03:00 [INF] ReportPublisherWorker worked.
+2021-09-10 01:23:42.814 +03:00 [DBG] Loaded hosting startup assembly YellowPages.Client.ReportPublisher
+2021-09-10 01:23:42.816 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2021-09-10 01:23:42.816 +03:00 [INF] Hosting environment: Production
+2021-09-10 01:23:42.816 +03:00 [INF] Content root path: C:\Users\Can\source\repos\YellowPages\03 - Client\YellowPages.Client.ReportPublisher
+2021-09-10 01:23:42.816 +03:00 [DBG] Hosting started
+2021-09-10 01:23:43.304 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5007/ - -
+2021-09-10 01:23:43.312 +03:00 [DBG] Wildcard detected, all requests with hosts will be allowed.
+2021-09-10 01:23:43.508 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5007/ - - - 404 - - 207.0440ms
+2021-09-10 01:24:00.091 +03:00 [INF] ReportPublisherWorker worked.
+2021-09-10 01:25:14.165 +03:00 [DBG] Hosting starting
+2021-09-10 01:25:14.688 +03:00 [INF] ReportPublisherWorker worked.
+2021-09-10 01:25:14.906 +03:00 [DBG] Loaded hosting startup assembly YellowPages.Client.ReportPublisher
+2021-09-10 01:25:14.907 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2021-09-10 01:25:14.907 +03:00 [INF] Hosting environment: Production
+2021-09-10 01:25:14.907 +03:00 [INF] Content root path: C:\Users\Can\source\repos\YellowPages\03 - Client\YellowPages.Client.ReportPublisher
+2021-09-10 01:25:14.907 +03:00 [DBG] Hosting started
+2021-09-10 01:25:15.388 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5007/ - -
+2021-09-10 01:25:15.393 +03:00 [DBG] Wildcard detected, all requests with hosts will be allowed.
+2021-09-10 01:25:15.784 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5007/ - - - 404 - - 397.1050ms
+2021-09-10 01:26:00.615 +03:00 [INF] ReportPublisherWorker worked.
+2021-09-10 01:27:00.481 +03:00 [INF] ReportPublisherWorker worked.
+2021-09-10 01:28:18.390 +03:00 [DBG] Hosting starting
+2021-09-10 01:28:18.800 +03:00 [INF] ReportPublisherWorker worked.
+2021-09-10 01:28:19.090 +03:00 [DBG] Loaded hosting startup assembly YellowPages.Client.ReportPublisher
+2021-09-10 01:28:19.104 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2021-09-10 01:28:19.104 +03:00 [INF] Hosting environment: Production
+2021-09-10 01:28:19.105 +03:00 [INF] Content root path: C:\Users\Can\source\repos\YellowPages\03 - Client\YellowPages.Client.ReportPublisher
+2021-09-10 01:28:19.105 +03:00 [DBG] Hosting started
+2021-09-10 01:28:19.553 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5007/ - -
+2021-09-10 01:28:19.560 +03:00 [DBG] Wildcard detected, all requests with hosts will be allowed.
+2021-09-10 01:28:19.653 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5007/ - - - 404 - - 103.8113ms
+2021-09-10 01:29:17.551 +03:00 [DBG] Hosting starting
+2021-09-10 01:29:17.962 +03:00 [INF] ReportPublisherWorker worked.
+2021-09-10 01:29:18.472 +03:00 [DBG] Loaded hosting startup assembly YellowPages.Client.ReportPublisher
+2021-09-10 01:29:18.506 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2021-09-10 01:29:18.506 +03:00 [INF] Hosting environment: Production
+2021-09-10 01:29:18.507 +03:00 [INF] Content root path: C:\Users\Can\source\repos\YellowPages\03 - Client\YellowPages.Client.ReportPublisher
+2021-09-10 01:29:18.507 +03:00 [DBG] Hosting started
+2021-09-10 01:29:18.594 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5007/ - -
+2021-09-10 01:29:18.598 +03:00 [DBG] Wildcard detected, all requests with hosts will be allowed.
+2021-09-10 01:29:18.702 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5007/ - - - 404 - - 110.0010ms
+2021-09-10 10:54:00.497 +03:00 [DBG] Hosting starting
+2021-09-10 10:54:00.852 +03:00 [INF] ReportPublisherWorker worked.
+2021-09-10 10:54:01.139 +03:00 [DBG] Loaded hosting startup assembly YellowPages.Client.ReportPublisher
+2021-09-10 10:54:01.140 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2021-09-10 10:54:01.141 +03:00 [INF] Hosting environment: Production
+2021-09-10 10:54:01.171 +03:00 [INF] Content root path: C:\Users\Can\source\repos\YellowPages\03 - Client\YellowPages.Client.ReportPublisher
+2021-09-10 10:54:01.171 +03:00 [DBG] Hosting started
+2021-09-10 10:54:01.338 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5007/ - -
+2021-09-10 10:54:01.500 +03:00 [DBG] Wildcard detected, all requests with hosts will be allowed.
+2021-09-10 10:54:01.627 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5007/ - - - 404 - - 291.6852ms
+2021-09-10 10:55:00.111 +03:00 [INF] ReportPublisherWorker worked.
+2021-09-10 10:56:00.079 +03:00 [INF] ReportPublisherWorker worked.
+2021-09-10 10:57:00.849 +03:00 [INF] ReportPublisherWorker worked.
+2021-09-10 10:58:00.644 +03:00 [INF] ReportPublisherWorker worked.
+2021-09-10 10:59:00.436 +03:00 [INF] ReportPublisherWorker worked.
+2021-09-10 11:00:00.226 +03:00 [INF] ReportPublisherWorker worked.

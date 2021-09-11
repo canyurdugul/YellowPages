@@ -1,0 +1,17 @@
+C:\Users\Can\source\repos\YellowPages\01 - Business\YellowPages.Business.Contracts\bin\Debug\net5.0\YellowPages.Business.Contracts.deps.json
+C:\Users\Can\source\repos\YellowPages\01 - Business\YellowPages.Business.Contracts\bin\Debug\net5.0\YellowPages.Business.Contracts.dll
+C:\Users\Can\source\repos\YellowPages\01 - Business\YellowPages.Business.Contracts\bin\Debug\net5.0\ref\YellowPages.Business.Contracts.dll
+C:\Users\Can\source\repos\YellowPages\01 - Business\YellowPages.Business.Contracts\bin\Debug\net5.0\YellowPages.Business.Contracts.pdb
+C:\Users\Can\source\repos\YellowPages\01 - Business\YellowPages.Business.Contracts\bin\Debug\net5.0\YellowPages.Common.Enums.dll
+C:\Users\Can\source\repos\YellowPages\01 - Business\YellowPages.Business.Contracts\bin\Debug\net5.0\YellowPages.Common.Enums.pdb
+C:\Users\Can\source\repos\YellowPages\01 - Business\YellowPages.Business.Contracts\obj\Debug\net5.0\YellowPages.Business.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Can\source\repos\YellowPages\01 - Business\YellowPages.Business.Contracts\obj\Debug\net5.0\YellowPages.Business.Contracts.AssemblyInfoInputs.cache
+C:\Users\Can\source\repos\YellowPages\01 - Business\YellowPages.Business.Contracts\obj\Debug\net5.0\YellowPages.Business.Contracts.AssemblyInfo.cs
+C:\Users\Can\source\repos\YellowPages\01 - Business\YellowPages.Business.Contracts\obj\Debug\net5.0\YellowPages.Business.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\Can\source\repos\YellowPages\01 - Business\YellowPages.Business.Contracts\obj\Debug\net5.0\YellowPages.Business.Contracts.csproj.CopyComplete
+C:\Users\Can\source\repos\YellowPages\01 - Business\YellowPages.Business.Contracts\obj\Debug\net5.0\YellowPages.Business.Contracts.dll
+C:\Users\Can\source\repos\YellowPages\01 - Business\YellowPages.Business.Contracts\obj\Debug\net5.0\ref\YellowPages.Business.Contracts.dll
+C:\Users\Can\source\repos\YellowPages\01 - Business\YellowPages.Business.Contracts\obj\Debug\net5.0\YellowPages.Business.Contracts.pdb
+C:\Users\Can\source\repos\YellowPages\01 - Business\YellowPages.Business.Contracts\bin\Debug\net5.0\YellowPages.Common.Validation.dll
+C:\Users\Can\source\repos\YellowPages\01 - Business\YellowPages.Business.Contracts\bin\Debug\net5.0\YellowPages.Common.Validation.pdb
+C:\Users\Can\source\repos\YellowPages\01 - Business\YellowPages.Business.Contracts\obj\Debug\net5.0\YellowPages.Business.Contracts.csproj.AssemblyReference.cache
